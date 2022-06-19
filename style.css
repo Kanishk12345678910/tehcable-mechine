@@ -1,0 +1,31 @@
+body{
+    background-color: goldenrod;
+    color: crimson;
+    font-family: fantasy;
+}
+.heading{
+    background-color: black;
+    color: ghostwhite;
+    font-size: large;
+    width: 100%;
+    padding: 10px;
+}
+b{
+    font-size: 23px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+hr{
+    width: 50%;
+    background-color: indigo;
+    height: 5px;
+}
+#camera,#result{
+    width: 350px;
+    height: 300px;
+    border-width: 2px;
+    border-style: dotted;
+    border-color:crimson ;
+
+
+}
